@@ -50,7 +50,7 @@ Implementa o encoder de n-gramas para representar textos em espaços hiperdimens
 Avalia dois algoritmos: BinHD (baseado em operações binárias) e NeuralHD (variante neuroinspirada).
 Permite observar as diferenças de desempenho e complexidade dos algoritmos HDC.    
 
-• Notebook 2: HDC com ngram encoder + record encoder (BinHD)  
+• Notebook 2: HDC com ngram encoder + record encoder (BinHD & NeuralHD)  
 
 Adiciona o uso do record encoder para enriquecer as representações hiperdimensionais.
 Utiliza o algoritmo BinHD para classificação do texto como fake ou não fake.
@@ -76,5 +76,7 @@ Cada linha possui um texto (notícia) e um rótulo:
 1 = Fake news
 Objetivo
 
-Comparar a simplicidade, desempenho e interpretabilidade entre métodos HDC e um Transformer (BERT) no contexto de fake news detection.
-Auxiliar pesquisadores e entusiastas no entendimento prático dessas abordagens para NLP.
+Comparar a simplicidade, desempenho e interpretabilidade entre métodos HDC , TFIDF e um Transformer (BERT) no contexto de fake news detection.
+Auxiliar pesquisadores e entusiastas no entendimento prático dessas abordagens para NLP.  
+
+As Metricas de avaliação foram Acuracia e Curva AUC
