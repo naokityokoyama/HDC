@@ -53,7 +53,7 @@ Permite observar as diferenças de desempenho e complexidade dos algoritmos HDC.
 
 Adiciona o uso do record encoder para enriquecer as representações hiperdimensionais.
 Utiliza o algoritmo BinHD para classificação do texto como fake ou não fake.
-Compara os ganhos de performance com a arquitetura apenas com ngram encoder.
+Compara os ganhos de performance com a arquitetura apenas com ngram encoder.  
 • Notebook 3: BERT para Fake News  
 
 Usa o modelo BERT pré-treinado para classificação binária de notícias falsas.
