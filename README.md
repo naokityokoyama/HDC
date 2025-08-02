@@ -48,12 +48,14 @@ Notebooks do Projeto
 
 Implementa o encoder de n-gramas para representar textos em espaços hiperdimensionais.
 Avalia dois algoritmos: BinHD (baseado em operações binárias) e NeuralHD (variante neuroinspirada).
-Permite observar as diferenças de desempenho e complexidade dos algoritmos HDC.  
+Permite observar as diferenças de desempenho e complexidade dos algoritmos HDC.    
+
 • Notebook 2: HDC com ngram encoder + record encoder (BinHD)  
 
 Adiciona o uso do record encoder para enriquecer as representações hiperdimensionais.
 Utiliza o algoritmo BinHD para classificação do texto como fake ou não fake.
-Compara os ganhos de performance com a arquitetura apenas com ngram encoder.  
+Compara os ganhos de performance com a arquitetura apenas com ngram encoder.    
+
 • Notebook 3: BERT para Fake News  
 
 Usa o modelo BERT pré-treinado para classificação binária de notícias falsas.
